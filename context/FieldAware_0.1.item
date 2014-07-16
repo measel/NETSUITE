@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="token" prompt="token?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="Contact_extID" prompt="Contact_extID?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="Job_extID" prompt="Job_extID?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="Invoice_extID" prompt="Invoice_extID?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="Asset_extID" prompt="Asset_extID?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="Item_extID" prompt="Item_extID?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="Location_extID" prompt="Location_extID?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="Task_extID" prompt="Task_extID?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="dbhost" prompt="dbhost?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="dbuser" prompt="dbuser?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="dbpassword" prompt="dbpassword?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter comment="" name="dbname" prompt="dbname?" promptNeeded="false" type="id_String" value="null"/>
+</talendfile:ContextType>
